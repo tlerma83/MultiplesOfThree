@@ -1,0 +1,8 @@
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/bin/Debug/netcoreapp1.1/MultiplesOfThree.deps.json
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/bin/Debug/netcoreapp1.1/MultiplesOfThree.runtimeconfig.json
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/bin/Debug/netcoreapp1.1/MultiplesOfThree.runtimeconfig.dev.json
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/bin/Debug/netcoreapp1.1/MultiplesOfThree.dll
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/bin/Debug/netcoreapp1.1/MultiplesOfThree.pdb
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/obj/Debug/netcoreapp1.1/MultiplesOfThree.AssemblyInfo.cs
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/obj/Debug/netcoreapp1.1/MultiplesOfThree.dll
+/Users/tamela/Desktop/Algorithims/MultiplesOfThree/obj/Debug/netcoreapp1.1/MultiplesOfThree.pdb
